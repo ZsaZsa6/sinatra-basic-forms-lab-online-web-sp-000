@@ -5,4 +5,5 @@ class Puppy
     @breed = breed
     @age = age
   end
+  binding.pry
 end
