@@ -6,7 +6,7 @@ class Puppy
     @name = name
     @breed = breed
     @age = age
-    @new << self
+    @new = self
   end
 
   def save
