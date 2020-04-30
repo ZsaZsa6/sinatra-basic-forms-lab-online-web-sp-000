@@ -6,9 +6,5 @@ class Puppy
     @name = name
     @breed = breed
     @age = age
-    @new = self
   end
-
-  def save
-end
 end
